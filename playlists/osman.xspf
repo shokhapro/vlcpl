@@ -6,7 +6,6 @@
 			<title>Наследие_Осман_001</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e01_rudubl_193104/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -14,7 +13,6 @@
 			<title>Наследие_Осман_002</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e02_rudubl_193105/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -22,7 +20,6 @@
 			<title>Наследие_Осман_003</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e03_rudubl_193106/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -30,7 +27,6 @@
 			<title>Наследие_Осман_004</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e04_rudubl_193107/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -38,7 +34,6 @@
 			<title>Наследие_Осман_005</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e05_rudubl_193108/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -46,7 +41,6 @@
 			<title>Наследие_Осман_006</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e06_rudubl_193109/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -54,7 +48,6 @@
 			<title>Наследие_Осман_007</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e07_rudubl_193110/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -62,7 +55,6 @@
 			<title>Наследие_Осман_008</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e08_rudubl_193111/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -70,7 +62,6 @@
 			<title>Наследие_Осман_009</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e09_rudubl_193112/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -78,7 +69,6 @@
 			<title>Наследие_Осман_010</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e10_rudubl_193113/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -86,7 +76,6 @@
 			<title>Наследие_Осман_011</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e11_rudubl_193114/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -94,7 +83,6 @@
 			<title>Наследие_Осман_012</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e12_rudubl_193115/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -102,7 +90,6 @@
 			<title>Наследие_Осман_013</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e13_rudubl_193116/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -110,7 +97,6 @@
 			<title>Наследие_Осман_014</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e14_rudubl_193117/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -118,7 +104,6 @@
 			<title>Наследие_Осман_015</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e15_rudubl_193118/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -126,7 +111,6 @@
 			<title>Наследие_Осман_016</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e16_rudubl_193119/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -134,7 +118,6 @@
 			<title>Наследие_Осман_017</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e17_rudubl_193120/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -142,7 +125,6 @@
 			<title>Наследие_Осман_018</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e18_rudubl_193121/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -150,7 +132,6 @@
 			<title>Наследие_Осман_019</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e19_rudubl_193122/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -158,7 +139,6 @@
 			<title>Наследие_Осман_020</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e20_rudubl_193123/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -166,7 +146,6 @@
 			<title>Наследие_Осман_021</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e21_rudubl_193124/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -174,7 +153,6 @@
 			<title>Наследие_Осман_022</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e22_rudubl_193125/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -182,7 +160,6 @@
 			<title>Наследие_Осман_023</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e23_rudubl_193126/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -190,7 +167,6 @@
 			<title>Наследие_Осман_024</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e24_rudubl_193127/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -198,7 +174,6 @@
 			<title>Наследие_Осман_025</title>
 			<location>https://s1.militorys.net/files/vod/turk/osman_s01e25_rudubl_193128/hls/720/index.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
