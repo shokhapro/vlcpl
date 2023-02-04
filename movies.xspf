@@ -6,7 +6,6 @@
 			<title>Наследие_Осман</title>
 			<location>https://shokhapro.github.io/vlcpl/playlists/osman.xspf</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -14,7 +13,6 @@
 			<title>Кино</title>
 			<location>https://shokhapro.github.io/vlcpl/playlists/cinema.xspf</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
