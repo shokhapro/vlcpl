@@ -23,5 +23,12 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<title>Доктор Стрэндж: В мультивселенной безумия</title>
+			<location>https://2f9-83a-2300g0.streamalloha.live/hs/43/1675565667/KIejZSGr2SMR63PHmQg8ig/367/641367/4/index-f2-v1-sa4-a1.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 </playlist>
