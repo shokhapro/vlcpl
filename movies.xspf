@@ -12,7 +12,7 @@
 		</track>
 		<track>
 			<title>Кино</title>
-			<location>https://251-a1e-3000g0.streamalloha.live/hs/49/1675544186/WS9AacvLji1TK_hDxC4kgw/446/701446/index-f2-v1-f5-a1.m3u8</location>
+			<location>https://shokhapro.github.io/vlcpl/movies.xspf</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
