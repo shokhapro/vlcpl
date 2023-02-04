@@ -16,6 +16,13 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<title>Телеканалы</title>
+			<location>https://shokhapro.github.io/vlcpl/playlists/tv.xspf</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 		<!--
 		hidden tracks
 		-->
