@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Osman_series25</title>
+	<trackList>
+		<track>
+			<title>Avatar2</title>
+			<location>https://251-a1e-3000g0.streamalloha.live/hs/49/1675544186/WS9AacvLji1TK_hDxC4kgw/446/701446/index-f2-v1-f5-a1.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
