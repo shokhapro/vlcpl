@@ -4,7 +4,7 @@
 	<trackList>
 		<track>
 			<title>Наследие_Осман</title>
-			<location>https://shokhapro.github.io/vlcpl/osman.xspf</location>
+			<location>https://shokhapro.github.io/vlcpl/playlists/osman.xspf</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
@@ -12,7 +12,7 @@
 		</track>
 		<track>
 			<title>Кино</title>
-			<location>https://shokhapro.github.io/vlcpl/cinema.xspf</location>
+			<location>https://shokhapro.github.io/vlcpl/playlists/cinema.xspf</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
