@@ -16,5 +16,8 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<!--
+		hidden tracks
+		-->
 	</trackList>
 </playlist>
