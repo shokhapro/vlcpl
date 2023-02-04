@@ -12,7 +12,7 @@
 		</track>
 		<track>
 			<title>Кино</title>
-			<location>https://shokhapro.github.io/vlcpl/movies.xspf</location>
+			<location>https://shokhapro.github.io/vlcpl/cinema.xspf</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
