@@ -177,5 +177,187 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<title>Наследие_Осман_026</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e26_rudubl_193129/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_027</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e27_rudubl_193130/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_028</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e28_aveturk_194175/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_029</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e29_aveturk_194176/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_030</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e30_aveturk_194177/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_031</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e31_aveturk_194197/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_032</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e32_aveturk_198703/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_033</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e33_aveturk_198704/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_034</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e34_aveturk_198705/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_035</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e35_aveturk_199129/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_036</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e36_aveturk_199130/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_037</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e37_aveturk_199131/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_038</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e38_aveturk_199132/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_039</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e39_aveturk_199133/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_040</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e40_aveturk_199134/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_041</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e41_aveturk_199135/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_042</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e42_aveturk_199136/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_043</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e43_aveturk_199137/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_044</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e44_aveturk_199138/hls/1080/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_045</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e45_aveturk_199139/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_046</title>
+			<location>https://s2.tuser.online/files/vod/turk/osman_s01e46_aveturk_199140/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_047</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e47_aveturk_194213/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_048</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e48_aveturk_194214/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_049</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e49_aveturk_194215/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_050</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e50_aveturk_194216/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Наследие_Осман_051</title>
+			<location>https://s1.tuser.online/files/vod/turk/osman_s01e51_aveturk_194217/hls/720/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 </playlist>
