@@ -6,7 +6,6 @@
 			<title>Аватар 2</title>
 			<location>https://251-a1e-3000g0.streamalloha.live/hs/49/1675544186/WS9AacvLji1TK_hDxC4kgw/446/701446/index-f2-v1-f5-a1.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -14,7 +13,6 @@
 			<title>Чёрный Адам</title>
 			<location>https://251-a1e-3000g0.streamalloha.live/hs/48/1675561163/53eIyuY8fJ_hgAsbsQxQ6A/837/685837/4/index-f2-v1-sa4-a1.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -22,7 +20,6 @@
 			<title>Монстры на каникулах: Трансформания</title>
 			<location>https://9bc-a3e-2200g0.streamalloha.live/hs/43/1675561259/W85FKjrrmBPeiqTXnoNfRw/600/534600/index-f2-v1-f5-a1.m3u8</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
