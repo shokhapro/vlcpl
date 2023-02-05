@@ -9,5 +9,33 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<title>Первый HD</title>
+			<location>https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>НТВ</title>
+			<location>https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Матч Премьер</title>
+			<location>https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Футбол</title>
+			<location>http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 </playlist>
