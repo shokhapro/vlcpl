@@ -37,5 +37,13 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<title>Кино ТВ</title>
+			<location>https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		
 	</trackList>
 </playlist>
