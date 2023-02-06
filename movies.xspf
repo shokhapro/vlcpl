@@ -9,6 +9,7 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<!--
 		<track>
 			<title>Кино</title>
 			<location>https://shokhapro.github.io/vlcpl/playlists/cinema.xspf</location>
@@ -16,8 +17,6 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
-		<!--
-		hidden tracks
 		-->
 	</trackList>
 </playlist>
